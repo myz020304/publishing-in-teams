@@ -1,0 +1,1 @@
+My capstone project will analyse US semiconductor trade patterns using Census and UN Comtrade data, combining visualisation and k-means clustering to explore changes across trading partners over time. (Yizhou Miao)
